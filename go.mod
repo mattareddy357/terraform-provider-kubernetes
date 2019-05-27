@@ -20,7 +20,7 @@ require (
 	github.com/imdario/mergo v0.3.6 // indirect
 	github.com/keybase/go-crypto v0.0.0-20190523171820-b785b22cc757 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
+	github.com/peterbourgon/diskv v3.0.0 // indirect
 	github.com/stoewer/go-strcase v1.0.2 // indirect
 	github.com/terraform-providers/terraform-provider-aws v0.0.0-20190510001811-4b894dbf13f6
 	github.com/terraform-providers/terraform-provider-google v1.20.0
